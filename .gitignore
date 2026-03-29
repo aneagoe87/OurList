@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except these files
+!README.md
+!PRIVACY.md
+!TERMS.md
+!.gitignore
